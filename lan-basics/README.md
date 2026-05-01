@@ -1,4 +1,4 @@
-# Day 1 - LAN Setup with Router
+# LAN Setup with Router
 
 ## Objective
 To design and configure a small Local Area Network (LAN) using a router as the default gateway.
