@@ -44,8 +44,9 @@ To implement dynamic IP address assignment using a DHCP server in a small office
 ## 🔧 Troubleshooting
 
 ### Issue:
-Devices received IP addresses but default gateway was missing
 ![Gateway](images/default-gateway-missing.png)
+
+-Devices received IP addresses but default gateway was missing
 
 ### Cause:
 Conflict with default DHCP pool ("Server Pool")
