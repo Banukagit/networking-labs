@@ -50,6 +50,8 @@ To implement Access Control Lists (ACLs) to enforce communication restrictions b
 ### Sales to IT Department Access
 ![Sales to IT Access](images/sales-to-it.png)
 
+-Sales users successfully accessed the IT department
+
 ---
 
 ## 🔧 Troubleshooting
