@@ -1,0 +1,13 @@
+! LINK TO COMPANY ROUTER
+interface g0/0
+ip address 200.1.1.2 255.255.255.252
+no shutdown
+
+! INTERNET NETWORK
+interface g0/1
+ip address 8.8.8.1 255.255.255.0
+no shutdown
+
+! ROUTES TO INTERNAL NETWORKS
+ip route 192.168.10.0 255.255.255.0 200.1.1.1
+ip route 192.168.20.0 255.255.255.0 200.1.1.1
