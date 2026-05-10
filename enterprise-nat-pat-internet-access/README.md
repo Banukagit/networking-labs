@@ -31,7 +31,7 @@ To simulate enterprise internet access using NAT/PAT and allow multiple internal
 ### Company Router
 - Configured internal and external interfaces
 - Applied NAT inside/outside configuration
-- Configured PAT overload
+- Configured PAT overload 
 - Added default route toward ISP
 
 ### ISP Router
