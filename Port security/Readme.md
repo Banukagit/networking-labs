@@ -1,5 +1,3 @@
-# Day 06 - Port Security
-
 ## Objective
 The objective of this lab was to configure Port Security on switch interfaces to prevent unauthorized devices from accessing the network.
 
