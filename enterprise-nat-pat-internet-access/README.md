@@ -1,7 +1,7 @@
 # Enterprise NAT/PAT Internet Access Lab
 
 ## 📌 Objective
-To simulate enterprise internet access using NAT/PAT and allow multiple internal networks to communicate with an external public network using a single public IP address.
+To simulate enterprise internet access using NAT/PAT and allow multiple internal networks to communicate with an external public network using a single public IP address. 
 
 ---
 
