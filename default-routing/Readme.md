@@ -1,4 +1,4 @@
-Default Routing
+#Default Routing
 
 ## Objective
 The objective of this lab was to configure default routing between a branch office router and an ISP router to simulate internet-style connectivity between internal and external networks.
