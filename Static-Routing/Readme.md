@@ -67,7 +67,7 @@ no shutdown
 
 ip route 192.168.10.0 255.255.255.0 10.0.0.1
 ```
-
+---
 # Routing Verification
 
 Used routing table verification commands to confirm that both routers successfully learned remote network paths.
